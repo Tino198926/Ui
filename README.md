@@ -35,11 +35,3 @@ soon
 ### soon
 
 soon
----
-
-## 🚀 Quick Start
-
-### Installation
-
-```bash
-soon
