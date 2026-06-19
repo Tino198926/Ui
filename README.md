@@ -23,25 +23,11 @@
 
 ### ✨ Key Features
 
-- 🎯 **Fully rounded corners** - No sharp edges, just pure smoothness
-- 📱 **Responsive** - Works seamlessly on all devices
-- 🎨 **Customizable** - Easily theme with CSS variables
-- ⚡ **Lightweight** - Minimal bundle size (< 10KB)
-- ♿ **Accessible** - WCAG 2.1 compliant components
-- 🌙 **Dark mode ready** - Built-in dark theme support
-- 🚀 **Zero dependencies** - No external libraries required
-- 📦 **Tree-shakable** - Import only what you need
+soon
 
-### 🎯 Design Philosophy
+### soon
 
-> *"Every pixel should feel like a warm hug"*
-
-RoundedUI embraces soft UI design, creating interfaces that feel:
-- **Welcoming** - Roundness reduces visual friction
-- **Modern** - Contemporary design language
-- **Intuitive** - Clear visual hierarchy
-- **Friendly** - Approachable and engaging
-
+soon
 ---
 
 ## 🚀 Quick Start
@@ -49,11 +35,4 @@ RoundedUI embraces soft UI design, creating interfaces that feel:
 ### Installation
 
 ```bash
-# npm
-npm install roundedui
-
-# yarn
-yarn add roundedui
-
-# pnpm
-pnpm add roundedui
+soon
